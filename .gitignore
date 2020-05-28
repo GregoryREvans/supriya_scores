@@ -3,6 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*.mp3
+*.wav
+*.aif
+*.aiff
+*.m4a
+*.RPP
+*.RPP-bak
+*.reapeaks
+
+.DS_Store
+
 # C extensions
 *.so
 
