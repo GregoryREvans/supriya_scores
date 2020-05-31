@@ -8,8 +8,8 @@ scores in this repository:
 
 ---
 Listen to
-* *Litany Against* Fear at: https://gregoryrowlandevans.bandcamp.com/track/litany-against-fear
+* *Litany Against Fear* at: https://gregoryrowlandevans.bandcamp.com/track/litany-against-fear
 
-* *Used Light* Fear at: https://gregoryrowlandevans.bandcamp.com/track/used-light
+* *Used Light* at: https://gregoryrowlandevans.bandcamp.com/track/used-light
 
-* *orchestion/phonoliszt* Fear at: https://gregoryrowlandevans.bandcamp.com/track/orchestrion-phonoliszt
+* *orchestion/phonoliszt* at: https://gregoryrowlandevans.bandcamp.com/track/orchestrion-phonoliszt
